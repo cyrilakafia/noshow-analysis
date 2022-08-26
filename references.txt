@@ -1,0 +1,6 @@
+References
+
+1. https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/
+2. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis
+3. https://www.youtube.com/watch?v=ZjQCPMO7LBE
+4. https://matplotlib.org/stable/index.html
