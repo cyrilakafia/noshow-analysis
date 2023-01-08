@@ -28,7 +28,7 @@ These questions were addressed and answered in the `Exploratory Data Analysis` s
 A [report](https://github.com/cyrilakafia/noshow-analysis/blob/main/report.html) (a html copy of the notebook) is created to share the findings that were the most interesting.
 
 ## REFERENCES
-All [references](https://github.com/cyrilakafia/noshow-analysis/blob/main/references.txt) were acknowledged
+All were acknowledged
 
 1. https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/
 2. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis
